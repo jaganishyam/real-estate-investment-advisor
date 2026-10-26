@@ -1,0 +1,12 @@
+{
+  "rows_raw": 250000,
+  "duplicates_removed": 0,
+  "missing_before": {},
+  "floor_above_building_fixed": 116304,
+  "Price_per_SqFt_outliers": 19724,
+  "Size_in_SqFt_outliers": 0,
+  "missing_after": 0,
+  "rows_clean": 250000,
+  "good_investment_rate": 0.3445,
+  "avg_expected_growth": 0.07
+}
