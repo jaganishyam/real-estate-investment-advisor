@@ -1,0 +1,5 @@
+# Everything in requirements.txt, plus what the training / EDA scripts use.
+-r requirements.txt
+mlflow>=3.0
+matplotlib>=3.8
+kaleido>=1.0      # optional - only for saving EDA charts as PNG

@@ -1,0 +1,11 @@
+# What the Streamlit app needs (this is the file Streamlit Cloud installs).
+# scikit-learn and xgboost are pinned because the saved models were trained
+# with these versions - a different version may refuse to load them.
+streamlit>=1.50
+pandas>=2.2
+numpy>=2.0
+pyarrow>=16
+plotly>=6.0
+scikit-learn==1.9.1
+xgboost==3.4.1
+joblib>=1.4
